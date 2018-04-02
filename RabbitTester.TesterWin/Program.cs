@@ -19,7 +19,7 @@ namespace RabbitTester.TesterWin
 
             var tester = new TopicExchangeTester();
 
-            tester.Test();
+            tester.Test(); 
 
             Console.ReadKey();
         }                    
